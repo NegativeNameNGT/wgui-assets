@@ -1,0 +1,102 @@
+# vault configurations
+[meta]
+    # friendly name
+    title =                 "WGUI Assets"
+    # contributors
+    author =                "NegativeName"
+    # version
+    version =               "1.0.0"
+
+# asset pack configurations
+[asset_pack]
+    # asset packs requirements
+    assets_requirements = [
+                            
+    ]
+
+# unreal engine configurations
+[unreal]
+    # unreal engine folder - the exact name of the root folder inside Content/ or Plugin/ used in Unreal
+    unreal_folder =         "wgui"
+    # unreal engine version - unreal version this asset pack was compiled on
+    unreal_version =        "5.3.2"
+    # whether this asset pack was created as a plugin content
+    is_plugin_content =     true
+
+# assets files
+[assets]
+    # maps
+    [assets.maps]
+        # MyMap = "MyFolder/MyAwesomeMap"
+        # ...
+
+    # static meshes
+    [assets.static_meshes]
+        # SM_Flower_01 = "MyFolder/SM_Awesome_Flower_01"
+        # SM_Rock_01 = { path = "MyFolder/SM_Rock_01", my_tag = "something", thumbnail = "Thumbnails/SM_Rock_01.jpg" }
+        # ...
+
+    # skeletal meshes
+    [assets.skeletal_meshes]
+        # SK_Better_Man = "Characters/SK_BetterMan_03"
+        # ...
+
+    # sounds
+    [assets.sounds]
+        # A_Awesome_Music = "Sounds/A_Awesome_Music"
+        # ...
+
+    # animations
+    [assets.animations]
+        # A_Character_Jump = "Animations/A_Character_Jump"
+        # ...
+
+    # particles
+    [assets.particles]
+        # P_Big_Explosion = "Particles/P_Big_Explosion"
+        # ...
+
+    # materials
+    [assets.materials]
+        # M_Red_Textured = "Materials/M_Red_Textured"
+        # ...
+
+    # blueprints
+    [assets.blueprints]
+        BP_WGUI_Toolkit = "Blueprints/BP_WGUI_Toolkit"
+        WBP_WGUI_BackgroundBlur = "Widgets/SpecialEffects/WBP_WGUI_BackgroundBlur"
+        WBP_WGUI_Border = "Widgets/Common/WBP_WGUI_Border"
+        WBP_WGUI_Button = "Widgets/Common/WBP_WGUI_Button"
+        WBP_WGUI_CanvasPanel = "Widgets/Panel/WBP_WGUI_CanvasPanel"
+        WBP_WGUI_CheckBox = "Widgets/Common/WBP_WGUI_CheckBox"
+        WBP_WGUI_CircularThrobber = "Widgets/Primitive/WBP_WGUI_CircularThrobber"
+        WBP_WGUI_ComboBox = "Widgets/Input/WBP_WGUI_ComboBox"
+        WBP_WGUI_DiamondGradientBox = "Widgets/SpecialEffects/WBP_WGUI_DiamondGradientBox"
+        WBP_WGUI_EditableText = "Widgets/Input/WBP_WGUI_EditableText"
+        WBP_WGUI_EditableTextMultiLine = "Widgets/Input/WBP_WGUI_EditableTextMultiLine"
+        WBP_WGUI_GridPanel = "Widgets/Panel/WBP_WGUI_GridPanel"
+        WBP_WGUI_HorizontalBox = "Widgets/Panel/WBP_WGUI_HorizontalBox"
+        WBP_WGUI_Image = "Widgets/Common/WBP_WGUI_Image"
+        WBP_WGUI_InvalidationBox = "Widgets/Optimization/WBP_WGUI_InvalidationBox"
+        WBP_WGUI_LinearGradientBox = "Widgets/SpecialEffects/WBP_WGUI_LinearGradientBox"
+        WBP_WGUI_Overlay = "Widgets/Panel/WBP_WGUI_Overlay"
+        WBP_WGUI_ProgressBar = "Widgets/Common/WBP_WGUI_ProgressBar"
+        WBP_WGUI_RadialGradientBox = "Widgets/SpecialEffects/WBP_WGUI_RadialGradientBox"
+        WBP_WGUI_RichText = "Widgets/Common/WBP_WGUI_RichText"
+        WBP_WGUI_ScaleBox = "Widgets/Panel/WBP_WGUI_ScaleBox"
+        WBP_WGUI_ScrollBox = "Widgets/Panel/WBP_WGUI_ScrollBox"
+        WBP_WGUI_SizeBox = "Widgets/Panel/WBP_WGUI_SizeBox"
+        WBP_WGUI_Slider = "Widgets/Common/WBP_WGUI_Slider"
+        WBP_WGUI_SliderWithStep = "Widgets/Common/WBP_WGUI_SliderWithStep"
+        WBP_WGUI_SpinBox = "Widgets/Input/WBP_WGUI_SpinBox"
+        WBP_WGUI_Text = "Widgets/Common/WBP_WGUI_Text"
+        WBP_WGUI_Throbber = "Widgets/Primitive/WBP_WGUI_Throbber"
+        WBP_WGUI_UniformGridPanel = "Widgets/Panel/WBP_WGUI_UniformGridPanel"
+        WBP_WGUI_VerticalBox = "Widgets/Panel/WBP_WGUI_VerticalBox"
+        WBP_WGUI_WidgetSwitcher = "Widgets/Panel/WBP_WGUI_WidgetSwitcher"
+        WBP_WGUI_WrapBox = "Widgets/Panel/WBP_WGUI_WrapBox"
+
+    # other assets (for not yet categorized ones)
+    [assets.others]
+        # Some_Stuff = "Others/Some_Stuff"
+        # ...
