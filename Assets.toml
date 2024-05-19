@@ -5,7 +5,7 @@
     # contributors
     author =                "NegativeName"
     # version
-    version =               "1.0.9"
+    version =               "1.1.0"
 
 # asset pack configurations
 [asset_pack]
@@ -78,6 +78,7 @@
         WBP_WGUI_Image = "Widgets/Common/WBP_WGUI_Image"
         WBP_WGUI_InvalidationBox = "Widgets/Optimization/WBP_WGUI_InvalidationBox"
         WBP_WGUI_LinearGradientBox = "Widgets/SpecialEffects/WBP_WGUI_LinearGradientBox"
+        WBP_WGUI_ListView = "Widgets/Lists/WBP_WGUI_ListView"
         WBP_WGUI_Overlay = "Widgets/Panel/WBP_WGUI_Overlay"
         WBP_WGUI_ProgressBar = "Widgets/Common/WBP_WGUI_ProgressBar"
         WBP_WGUI_RadialGradientBox = "Widgets/SpecialEffects/WBP_WGUI_RadialGradientBox"
