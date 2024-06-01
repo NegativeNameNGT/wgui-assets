@@ -5,7 +5,7 @@
     # contributors
     author =                "NegativeName"
     # version
-    version =               "1.1.1"
+    version =               "1.1.2"
 
 # asset pack configurations
 [asset_pack]
@@ -91,6 +91,7 @@
         WBP_WGUI_SpinBox = "Widgets/Input/WBP_WGUI_SpinBox"
         WBP_WGUI_Text = "Widgets/Common/WBP_WGUI_Text"
         WBP_WGUI_Throbber = "Widgets/Primitive/WBP_WGUI_Throbber"
+        WBP_WGUI_TreeView = "Widgets/Lists/WBP_WGUI_TreeView"
         WBP_WGUI_UniformGridPanel = "Widgets/Panel/WBP_WGUI_UniformGridPanel"
         WBP_WGUI_VerticalBox = "Widgets/Panel/WBP_WGUI_VerticalBox"
         WBP_WGUI_WidgetSwitcher = "Widgets/Panel/WBP_WGUI_WidgetSwitcher"
