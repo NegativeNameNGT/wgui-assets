@@ -64,6 +64,7 @@
     # blueprints
     [assets.blueprints]
         BP_WGUI_Toolkit = "Blueprints/BP_WGUI_Toolkit"
+        NW_WGUI_ExpandableArea = "Widgets/Misc/NW_WGUI_ExpandableArea"
         WBP_WGUI_BackgroundBlur = "Widgets/SpecialEffects/WBP_WGUI_BackgroundBlur"
         WBP_WGUI_Border = "Widgets/Common/WBP_WGUI_Border"
         WBP_WGUI_Button = "Widgets/Common/WBP_WGUI_Button"
@@ -73,6 +74,7 @@
         WBP_WGUI_ComboBox = "Widgets/Input/WBP_WGUI_ComboBox"
         WBP_WGUI_DiamondGradientBox = "Widgets/SpecialEffects/WBP_WGUI_DiamondGradientBox"
         WBP_WGUI_EditableText = "Widgets/Input/WBP_WGUI_EditableText"
+        WBP_WGUI_ExpandableArea = "Widgets/Misc/WBP_WGUI_ExpandableArea"
         WBP_WGUI_GridPanel = "Widgets/Panel/WBP_WGUI_GridPanel"
         WBP_WGUI_HorizontalBox = "Widgets/Panel/WBP_WGUI_HorizontalBox"
         WBP_WGUI_Image = "Widgets/Common/WBP_WGUI_Image"
