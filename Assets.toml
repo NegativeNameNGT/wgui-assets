@@ -19,7 +19,7 @@
     # unreal engine folder - the exact name of the root folder inside Content/ or Plugin/ used in Unreal
     unreal_folder =         "wgui"
     # unreal engine version - unreal version this asset pack was compiled on
-    unreal_version =        "5.3.2"
+    unreal_version =        "5.4.4"
     # whether this asset pack was created as a plugin content
     is_plugin_content =     true
 
